@@ -1,6 +1,6 @@
 README for homework 5
 
-
+https://kcshire211.github.io/work-day-scheduler/
 
 ## HTML File
 
@@ -13,3 +13,6 @@ Again since the stylesheet was given, not much had to be done here. I did howeve
 ## JavaScript file
 
 Here is where the magic happens. The first thing I did was use the moment command to display the current date atop the page. I then run a function to serparate the number from the am/pm labels that display on the page in order to better reference the number value of the current time and not have to worry about parsing out the am/pm label in the later functions. I then used an if else function along with addClass and Remove class to essentially create 3 possible states on the page; past time, current time, and future time. Each of these 3 states is also represented by a distinct color. The moment command again recognizes the current time, and the corresponding colors are automatically displayed on the page. Finally I added the ability to store text input in the local storage for each hour block in order to save input information or "to dos" for a given hour. 
+
+
+![image](https://user-images.githubusercontent.com/85852768/132262459-19059777-2106-42f3-a431-224b8150c86f.png)
