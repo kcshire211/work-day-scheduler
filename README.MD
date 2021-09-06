@@ -1,6 +1,6 @@
 README for homework 5
 
-https://kcshire211.github.io/work-day-scheduler/
+
 
 ## HTML File
 
